@@ -5,4 +5,9 @@
     <string name="back4app_client_key">zl3Vr8G3MxLXfLzFfEWZf2jJJyT8h473lHA4b2Ok</string>
 
     <string name="name">Please Enter Name Of KickBoxer</string>
+    <string name="email">Please Enter Your Email</string>
+    <string name="username">Please Enter Your UserName</string>
+    <string name="password">Please Enter Your Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="log_in">LOG IN</string>
 </resources>
